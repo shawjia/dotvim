@@ -52,3 +52,6 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = git://github.com/tpope/vim-fugitive.git
+[submodule "bundle/color-moria"]
+	path = bundle/color-moria
+	url = git://github.com/vim-scripts/moria.git
