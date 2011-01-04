@@ -64,3 +64,6 @@
 [submodule "bundle/syntax-json"]
 	path = bundle/syntax-json
 	url = git://github.com/vim-scripts/JSON.vim.git
+[submodule "bundle/syntax-django"]
+	path = bundle/syntax-django
+	url = git://github.com/vim-scripts/django.vim.git
