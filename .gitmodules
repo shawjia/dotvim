@@ -67,3 +67,6 @@
 [submodule "bundle/syntax-django"]
 	path = bundle/syntax-django
 	url = git://github.com/vim-scripts/django.vim.git
+[submodule "bundle/ShowMarks"]
+	path = bundle/ShowMarks
+	url = git://github.com/vim-scripts/ShowMarks.git
