@@ -73,3 +73,6 @@
 [submodule "bundle/fanvim"]
 	path = bundle/fanvim
 	url = git://github.com/shawjia/FanVim.git
+[submodule "bundle/AutoComplPop"]
+	path = bundle/AutoComplPop
+	url = git://github.com/vim-scripts/AutoComplPop.git
