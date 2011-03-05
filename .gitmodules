@@ -43,9 +43,6 @@
 [submodule "bundle/color-moria"]
 	path = bundle/color-moria
 	url = git://github.com/vim-scripts/moria.git
-[submodule "bundle/gundo"]
-	path = bundle/gundo
-	url = git://github.com/vim-scripts/Gundo.git
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = git://github.com/scrooloose/nerdcommenter.git
@@ -76,3 +73,6 @@
 [submodule "bundle/AutoComplPop"]
 	path = bundle/AutoComplPop
 	url = git://github.com/vim-scripts/AutoComplPop.git
+[submodule "bundle/tabular"]
+	path = bundle/tabular
+	url = git://github.com/godlygeek/tabular.git
