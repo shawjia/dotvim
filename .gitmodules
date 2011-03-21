@@ -79,3 +79,6 @@
 [submodule "bundle/syntax-smarty"]
 	path = bundle/syntax-smarty
 	url = git://github.com/vim-scripts/smarty.vim.git
+[submodule "bundle/AutoClose"]
+	path = bundle/AutoClose
+	url = git://github.com/vim-scripts/AutoClose.git
