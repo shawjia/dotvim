@@ -82,3 +82,6 @@
 [submodule "bundle/AutoClose"]
 	path = bundle/AutoClose
 	url = git://github.com/vim-scripts/AutoClose.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git
