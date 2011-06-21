@@ -85,3 +85,6 @@
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = git://github.com/majutsushi/tagbar.git
+[submodule "bundle/FencView"]
+	path = bundle/FencView
+	url = git://github.com/vim-scripts/FencView.vim.git
