@@ -112,3 +112,6 @@
 [submodule "bundle/mustache"]
 	path = bundle/mustache
 	url = https://github.com/juvenn/mustache.vim.git
+[submodule "bundle/syntax-less"]
+	path = bundle/syntax-less
+	url = https://github.com/groenewege/vim-less.git
