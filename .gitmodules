@@ -28,15 +28,9 @@
 [submodule "bundle/taglist"]
 	path = bundle/taglist
 	url = git://github.com/vim-scripts/taglist.vim.git
-[submodule "bundle/twitvim"]
-	path = bundle/twitvim
-	url = git://github.com/vim-scripts/TwitVim.git
 [submodule "bundle/vim-align"]
 	path = bundle/vim-align
 	url = git://github.com/tsaleh/vim-align.git
-[submodule "bundle/fugitive"]
-	path = bundle/fugitive
-	url = git://github.com/tpope/vim-fugitive.git
 [submodule "bundle/color-moria"]
 	path = bundle/color-moria
 	url = git://github.com/vim-scripts/moria.git
@@ -55,9 +49,6 @@
 [submodule "bundle/color-paintox"]
 	path = bundle/color-paintox
 	url = git://github.com/vim-scripts/paintbox.git
-[submodule "bundle/fanvim"]
-	path = bundle/fanvim
-	url = git://github.com/shawjia/FanVim.git
 [submodule "bundle/AutoComplPop"]
 	path = bundle/AutoComplPop
 	url = git://github.com/vim-scripts/AutoComplPop.git
@@ -85,27 +76,18 @@
 [submodule "bundle/MatchTag"]
 	path = bundle/MatchTag
 	url = git://github.com/gregsexton/MatchTag.git
-[submodule "bundle/html5"]
-	path = bundle/html5
-	url = git://github.com/othree/html5.vim.git
 [submodule "bundle/ack"]
 	path = bundle/ack
 	url = git://github.com/mileszs/ack.vim.git
 [submodule "bundle/powerline"]
 	path = bundle/powerline
 	url = git://github.com/Lokaltog/vim-powerline.git
-[submodule "bundle/mustache"]
-	path = bundle/mustache
-	url = git://github.com/juvenn/mustache.vim.git
 [submodule "bundle/syntax-less"]
 	path = bundle/syntax-less
 	url = git://github.com/groenewege/vim-less.git
 [submodule "bundle/syntax-coffee"]
 	path = bundle/syntax-coffee
 	url = git://github.com/kchmck/vim-coffee-script.git
-[submodule "bundle/hammer"]
-	path = bundle/hammer
-	url = git://github.com/matthias-guenther/hammer.vim.git
 [submodule "bundle/syntax-jade"]
 	path = bundle/syntax-jade
 	url = git://github.com/digitaltoad/vim-jade.git
